@@ -12,7 +12,7 @@ Currently studying data analysis and backend development of course
   ### 📊 My stats :
 
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazlucas&show_icons=true&theme=radical) 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vazlucas&theme=dark&hide_border=true&border_radius=5)(https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vazlucas&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
   ### 💻 Main languages :
 
