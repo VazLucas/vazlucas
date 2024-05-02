@@ -2,8 +2,6 @@
 
 I am a developer from Brazil :brazil:
 
-Now, I am an intern in backend development with Java at Compass.uol.
-
 I love playing football :soccer: 
 
 Currently studying data analysis and backend development of course
